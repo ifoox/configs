@@ -1,3 +1,7 @@
 [user]
 	name = Igor Foox
 	email = igor@foox.ca
+[alias]
+	ci = commit
+	st = status
+	co = checkout
