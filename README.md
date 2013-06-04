@@ -1,4 +1,4 @@
 configs
 =======
 
-Dot files and other configs.
+Dot files and other configs. For various program.
