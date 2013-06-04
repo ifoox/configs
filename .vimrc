@@ -1,3 +1,13 @@
+:set nocompatible
+
+" Syntax highlighting FTW.
+syntax on
+
+" Numbers by default.
+" TODO: add shortcuts to disable for the current buffer.
+:set number
+
+
 " Follow the leader leader.
 :let mapleader = "-"
 
