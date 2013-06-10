@@ -1,6 +1,10 @@
 [user]
 	name = Igor Foox
 	email = igor@foox.ca
+[color]
+	status = auto
+	diff = auto
+	branch = auto
 [alias]
 	ci = commit
 	st = status
